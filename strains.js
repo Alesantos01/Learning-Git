@@ -1,1 +1,2 @@
 add strains(){}
+delete strains(){}
