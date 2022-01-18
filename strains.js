@@ -1,3 +1,4 @@
+cancel strains(){}
 modify strains(){}
 add strains(){}
 delete strains(){}
